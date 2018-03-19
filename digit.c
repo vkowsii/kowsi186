@@ -14,3 +14,4 @@ void main()
     printf("Given number = %ld\n", temp);
     printf("Sum of the digits %ld = %ld\n", temp, sum);
 }
+}
